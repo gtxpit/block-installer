@@ -1,8 +1,8 @@
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 465
-SENDER = "egorchikpro121212@gmail.com"
-PASSWORD = "txfg ipir kpov uazh"
-RECIPIENT = "petrfifer@gmail.com"
+SENDER = "почта отправителя"
+PASSWORD = "пароль"
+RECIPIENT = "почта куда отправить"
 
 MUSIC_FILE = "Inner Circle - Bad Boys (Theme From Cops).mp3"
 
